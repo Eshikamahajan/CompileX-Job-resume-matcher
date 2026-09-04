@@ -1,0 +1,9 @@
+pandas
+requests
+pdfplumber 
+python-docx
+load_dotenv
+scikit-learn
+google-genai 
+pydantic
+streamlit
